@@ -1,0 +1,1 @@
+# sentiment-analysis-of-a-trading-journal
