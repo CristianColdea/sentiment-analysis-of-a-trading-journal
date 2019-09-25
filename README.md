@@ -1,6 +1,6 @@
 #sentiment analysis of a trading journal
 
-Trading the markets is still an unreached objective for many traders, who are
+Beating the markets is still an unreached objective for many traders, who are
 making the same mistakes over and over again. Keeping a trading journal is among
 the most important steps in order to become a disciplined trader. Just keeping
 it doesn't bring much benefits, revising it on regular basis is even more
